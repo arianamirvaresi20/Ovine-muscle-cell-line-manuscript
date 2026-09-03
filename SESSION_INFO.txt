@@ -1,0 +1,11 @@
+R environment used for all analyses in this repository:
+
+RStudio 2025.09.2 Build 418
+"Cucumberleaf Sunflower" Release (12f6d5e2, 2025-10-20) for Windows
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
+RStudio/2025.09.2+418 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36
+Quarto 1.7.32
+
+To reproduce the exact environment, install RStudio 2025.09.2 (Build 418) and
+run sessionInfo() / packageVersion() for each library after installing the
+packages listed in README.md.
